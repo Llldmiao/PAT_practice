@@ -4,7 +4,7 @@
 
 开始还加了对输入是否在区间的判断，，结果4个测试点超时只有一个正确。。。。根本不需要这个判断的
 
-![1532666150735](C:\Users\lenovo\AppData\Local\Temp\1532666150735.png)
+![1532666150735](D:\PAT_practice\img\1001-pass)
 
 ```c
 #include<stdio.h>
