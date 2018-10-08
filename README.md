@@ -1,4 +1,4 @@
-# PAT_practice
+# PTA_practice
 做PAT上的练习
 
 不管怎样明年还是要考顶级的呀。。。
